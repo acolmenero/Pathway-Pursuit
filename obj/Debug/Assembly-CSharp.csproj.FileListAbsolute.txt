@@ -1,0 +1,2 @@
+/Users/alexiacolmenero/Downloads/2DTutorialBase-master/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/alexiacolmenero/Downloads/2DTutorialBase-master/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
